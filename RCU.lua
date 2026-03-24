@@ -1,4 +1,3 @@
-
 local maxRetries = 3
 local retryDelay = 3
 local loadSuccess = false
